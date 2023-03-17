@@ -15,7 +15,7 @@ void input() {
             break;
         else 
         {
-            cout << "nArray dapat mempunyai maksimal 20 elemen. \n";
+            cout << /"nArray dapat mempunyai maksimal 20 elemen. \n";
         }
     }
     cout << endl;
